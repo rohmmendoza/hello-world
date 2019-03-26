@@ -1,4 +1,4 @@
 # hello-world
 
 Hello Guys!
-Welcome to Rohm's World!
+Welcome to my first project, the "Hello World".
